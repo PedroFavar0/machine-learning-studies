@@ -16,7 +16,7 @@ dataframe.columns = [
     'Tempo livre', 'Sai com amigos', 'Alcool dia util', 'Alcool fim de semana', 'Saude', 'Faltas', 'G1', 'G2', 'G3'
 ]
 
-# print(dataframe.columns.tolist())
+# print(dataframe.columns.tolist()) 
 
 df_familia = dataframe[['Educação mãe', 'Educação pai', 'Trabalho mãe', 'Trabalho pai', 'Responsável legal',
                        'Qualidade rel familia', 'Suporte educacional da familia', 'Tamanho familia', 
